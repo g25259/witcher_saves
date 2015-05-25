@@ -8,7 +8,7 @@ uiHorizontalFrameScale=1
 SpeechLanguage=EN
 TextLanguage=ZH
 [Viewport]
-VSync=true
+VSync=false
 Resolution="1920x1080"
 FullScreenMode=1
 VSyncThreshold=0
@@ -80,7 +80,7 @@ MouseSensitivity=1
 DlcEnabled_dlc_001_001=1
 DlcEnabled_dlc_002_001=1
 [Gameplay]
-Difficulty=2
+Difficulty=4
 [LevelOfDetail]
 SwarmHideDistance=200
 DecalsHideDistance=30
@@ -150,7 +150,7 @@ SkipInputDelay=0.25
 FadeOutTime=1.5
 SkipAutoshow=false
 [Engine]
-LimitFPS=60
+LimitFPS=0
 [Rendering/SpeedTree]
 GrassGenerationEfficiency=0.075
 GrassDistanceScale=0.5
